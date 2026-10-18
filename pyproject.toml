@@ -1,0 +1,12 @@
+[project]
+name = "homework2"
+version = "0.1.0"
+description = "HSE. Магистратура - 1 курс. Домашняя работа #2 по Язык Python для разработчиков"
+readme = "README.md"
+authors = [
+    { name = "Evgeniy Gribanov", email = "evgeniy.therabbit@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi[standard]>=0.143.5",
+]
